@@ -10,5 +10,5 @@
 
 
 ## :hammer_and_pick: Languages and Tools
-<div baskground-color="#E34F26"><img src="https://github.com/Olesya090585/OlesyaVarnakova/blob/main/html5.svg" width="50" height="50"/></div>
+<div baskground-color="#E34F26"><img src="https://github.com/Olesya090585/OlesyaVarnakova/blob/main/html-1.svg" width="50" height="50"/></div>
 
