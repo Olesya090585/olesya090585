@@ -20,7 +20,13 @@
 
 </br>
 <h2 align="center">:bookmark: My contacts</h2>
-<p align="center"><a href="mailto:nouveau.happier_0d@icloud.com" text-decoration="none" target="_blank">:email: nouveau.happier_0d@icloud.com</a></p>
+<p align="center">
+  <a href="mailto:nouveau.happier_0d@icloud.com" text-decoration="none" target="_blank">:email: nouveau.happier_0d@icloud.com</a>
+</p>
+<p align="center"> <a href="https://t.me/OlesyaVarnakova">
+  <img src="https://github.com/Olesya090585/OlesyaVarnakova/blob/main/icons8-telegram.svg" text-decoration="none" target="_blank"></a></p>
+
+
 
 
 
