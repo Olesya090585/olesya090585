@@ -18,5 +18,10 @@
 <img src="https://github.com/Olesya090585/OlesyaVarnakova/blob/main/icons8-react-native.svg" width="50" height="50"/>
 <img src="https://github.com/Olesya090585/OlesyaVarnakova/blob/main/icons8-webpack-a-module-bundler.-its-main-purpose-is-to-bundle-javascript-files-for-usage-in-a-browser-96.png" width="50" height="50"/></div>
 
-## :bookmark: My contacts
-<h3 align="center">:bookmark: My contacts</h3>
+</br>
+<h2 align="center">:bookmark: My contacts</h2>
+<p align="center"><a href="mailto:nouveau.happier_0d@icloud.com" text-decoration="none" target="_blank">:email: nouveau.happier_0d@icloud.com</a></p>
+
+
+
+
