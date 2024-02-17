@@ -1,7 +1,7 @@
-<h1 align="center">Привет, меня зовут Олеся :wave:!</h1>
+<h1 align="center">Привет, меня зовут Олеся :wave:!</h1>  
 
-## :woman_technologist: About me
-# :feather: Я Фронтенд-разработчица из России :earth_asia:.
+### :woman_technologist: About me
+### :feather: Я Фронтенд-разработчица из России.
 
  * :four_leaf_clover: Восхищаюсь магией веб-разработки.
  * :compass: Стремлюсь освоить это мастерство.
@@ -18,16 +18,13 @@
 <img src="https://github.com/Olesya090585/OlesyaVarnakova/blob/main/icons8-react-native.svg" width="50" height="50"/>
 <img src="https://github.com/Olesya090585/OlesyaVarnakova/blob/main/icons8-webpack-a-module-bundler.-its-main-purpose-is-to-bundle-javascript-files-for-usage-in-a-browser-96.png" width="50" height="50"/></div>
 
-</br>
+
 <h2 align="center">:bookmark: My contacts</h2>
-<p align="center">
-  <a href="mailto:nouveau.happier_0d@icloud.com" text-decoration="none" target="_blank">:email: nouveau.happier_0d@icloud.com</a>
-</p>
-<p align="center"> <a href="https://t.me/OlesyaVarnakova">
-  <img src="https://github.com/Olesya090585/OlesyaVarnakova/blob/main/icons8-telegram.svg" text-decoration="none" target="_blank"></a></p>
-
-
-
+<div align="center">
+  <a href="mailto:nouveau.happier_0d@icloud.com" text-decoration="none" target="_blank"><img src="https://github.com/Olesya090585/OlesyaVarnakova/blob/main/email-svgrepo-com.svg" width="30" height="30" text-decoration="none" target="_blank"></a>
+<a href="https://t.me/OlesyaVarnakova">
+  <img src="https://github.com/Olesya090585/OlesyaVarnakova/blob/main/telegram-svgrepo-com.svg" width="30" height="30" text-decoration="none" target="_blank"></a>
+</div>
 
 
 
